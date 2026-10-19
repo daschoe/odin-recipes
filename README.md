@@ -7,3 +7,6 @@ CSS will be added later.
 This will demonstrate basic website building skills.
 ## Timeframe
 18.10.2026 - xx.xx.2026
+### Progress
+18.10.2026 - added basic structure<br/>
+19.10.2026 - added HTML portion with 3 recipes
