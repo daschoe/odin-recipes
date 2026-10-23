@@ -1,0 +1,45 @@
+* {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    margin: 10px 0;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    color:midnightblue
+}
+
+ul, ol, li {
+    background-color:floralwhite;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul, ol {
+    border-style: ridge;
+}
+
+a {
+    background-color: transparent;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
+
+.nav {
+    background-color: aliceblue;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.index{
+    width: 100px;
+}

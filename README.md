@@ -9,4 +9,5 @@ This will demonstrate basic website building skills.
 18.10.2026 - xx.xx.2026
 ### Progress
 18.10.2026 - added basic structure<br/>
-19.10.2026 - added HTML portion with 3 recipes
+19.10.2026 - added HTML portion with 3 recipes<br/>
+23.10.2026 - added basic CSS<br/>
